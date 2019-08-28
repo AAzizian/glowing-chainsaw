@@ -1,0 +1,9 @@
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Services\bin\Debug\MyShop.Services.dll
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Services\bin\Debug\MyShop.Core.dll
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Services\bin\Debug\MyShop.Core.pdb
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csprojAssemblyReference.cache
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CopyComplete
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb

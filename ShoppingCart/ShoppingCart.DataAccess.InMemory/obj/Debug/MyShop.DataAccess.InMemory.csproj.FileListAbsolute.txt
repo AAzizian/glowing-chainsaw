@@ -1,0 +1,9 @@
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.dll
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.pdb
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.dll
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.pdb
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csprojAssemblyReference.cache
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CopyComplete
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.dll
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.pdb

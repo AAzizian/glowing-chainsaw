@@ -1,0 +1,6 @@
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Core\bin\Debug\MyShop.Core.dll
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Core\bin\Debug\MyShop.Core.pdb
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csprojAssemblyReference.cache
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Core\obj\Debug\MyShop.Core.dll
+D:\ASP.NET MVC 5\MyShop\MyShop\MyShop.Core\obj\Debug\MyShop.Core.pdb

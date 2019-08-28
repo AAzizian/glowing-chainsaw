@@ -1,0 +1,6 @@
+D:\ASP.NET MVC 5\ShoppingCart\ShoppingCart\ShoppingCart.Core\obj\Debug\ShoppingCart.Core.csprojAssemblyReference.cache
+D:\ASP.NET MVC 5\ShoppingCart\ShoppingCart\ShoppingCart.Core\obj\Debug\ShoppingCart.Core.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC 5\ShoppingCart\ShoppingCart\ShoppingCart.Core\bin\Debug\ShoppingCart.Core.dll
+D:\ASP.NET MVC 5\ShoppingCart\ShoppingCart\ShoppingCart.Core\bin\Debug\ShoppingCart.Core.pdb
+D:\ASP.NET MVC 5\ShoppingCart\ShoppingCart\ShoppingCart.Core\obj\Debug\ShoppingCart.Core.dll
+D:\ASP.NET MVC 5\ShoppingCart\ShoppingCart\ShoppingCart.Core\obj\Debug\ShoppingCart.Core.pdb
